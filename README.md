@@ -10,7 +10,7 @@ WIP - Investigating procedural generation, trying to implement it as a mesh gene
 
 ## Roadmap
 
-- [ ] Create mesh out of Gizmos
+- [X] Create mesh out of Gizmos
 - [ ] Create some kind of plane edge near every tile
 - [ ] Height Map - Procedural Generate mountains
 - [ ] Procedural Generate Rivers and Trees
